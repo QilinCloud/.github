@@ -17,7 +17,7 @@ All of this has to be well documented, because the goal of our work is to meet t
 
 ## Looking for a new challening opportunity?
 
-We are always looking for creative minds to join us as dev, architect, qc, pm, devop or secop to build the Qilin.Cloud of tomorrow! Join our fascinating crowd: [jobs@qilin.cloud](jobs@qilin.cloud).
+We are always looking for creative minds to join us as dev, architect, qc, pm, devop or secop to build the Qilin.Cloud of tomorrow! Join our fascinating crowd: [jobs@qilin.cloud](mailto:jobs@qilin.cloud).
 
 ## Why we’re building in the open
 
