@@ -40,6 +40,11 @@ We provice you some SDKs for common used languages here: [Show me the SDKs](http
 
 We invite you to join our open Slack Tech Talk channel: [Join Slack Channel #external-devs](http://uni2.it/joinslack)
 
+## Code of Conduct
+
+This code of conduct outlines our expectations for all those who participate in the Qilin.Cloud projects and communities (community programs), as well as the consequences for unacceptable behaviour.
+Please read carefully here: [Code of Conduct](https://github.com/QilinCloud/.github/blob/main/CODE_OF_CONDUCT.md)
+
 ## Contributing
 
 It's awesome that you want to contribute to Qilin.Cloud, please read our [contributing guidelines](https://github.com/QilinCloud/.github/blob/main/CONTRIBUTING.md) and keep the PRs coming! :heart: 
