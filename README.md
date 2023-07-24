@@ -42,7 +42,7 @@ We invite you to join our open Slack Tech Talk channel: [Join Slack Channel #ext
 
 ## Contributing
 
-It's awesome that you want to contribute to Qilin.Cloud, please read our [contributing guidelines](https://github.com/QilinCloud/.github/blob/main/CONTRIBUTING.md) and keep the PRs coming! :heart:
+It's awesome that you want to contribute to Qilin.Cloud, please read our [contributing guidelines](https://github.com/QilinCloud/.github/blob/main/CONTRIBUTING.md) and keep the PRs coming! :heart: 
 
 ## Code Quality
 You will find some code-quality reports in the overview of each repository.
