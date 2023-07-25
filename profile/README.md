@@ -59,10 +59,10 @@ We use a variety of state-of-the-art techniques to ensure that our code meets th
 
 Generally, bugs and enhancements for the API or docs should be provided by the issues tab in the repository. Everything else takes place in the discussions tab.
 
-:warning: For vulnerabilities please check out the security tab in the repository.
+:warning: For vulnerabilities please check out the [security tab](https://github.com/QilinCloud/QilinCloud/security) in the repository.
 
 ## Legal
 
-Note that by submitting your feedback, we have the right to use it.[^1]
+Note that by submitting your feedback / code, we have the right to use it.[^1]
 
 [^1]:Legalese-wise, this means it’s considered non-confidential and non-proprietary to you, and you grant Qilin.Cloud a non-exclusive, worldwide, royalty-free, irrevocable, sub-licensable, perpetual license to use and publish those ideas and materials for any purpose, without compensation to you.
