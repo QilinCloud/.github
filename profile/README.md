@@ -57,7 +57,7 @@ We use a variety of state-of-the-art techniques to ensure that our code meets th
 
 ## How to provide feedback
 
-Generally, bugs and enhancements for the API or docs should be provided by the issues tab in the repository. Everything else takes place in the discussions tab.
+Generally, bugs and enhancements for the API or docs should be provided by the issues tab in the repository. Everything else takes place in the general [discussions tab](https://github.com/orgs/QilinCloud/discussions).
 
 :warning: For vulnerabilities please check out the [security tab](https://github.com/QilinCloud/QilinCloud/security) in the repository.
 
