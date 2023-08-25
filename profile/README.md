@@ -3,7 +3,7 @@
 Qilin.Cloud is a global technology platform for [composable commerce](https://github.com/QilinCloud/QilinCloud/wiki/Composable-Commerce). We're driven by our mission to enable developers creating fabulous products for every participant of e-commerce around the globe!
 Let's help them together, using the right tools at the right time!
 
-Qilin.Cloud is uses [MACHOP](https://qilin.cloud/MACHOP), a re-definition of MACH.
+Qilin.Cloud is uses [MACHOP](https://qilin.cloud/MACHOP), a re-definition of MACH. 
 
 This space is a way for us to collaborate directly with developers like you.
 
