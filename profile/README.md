@@ -50,6 +50,11 @@ You are new to Qilin.Cloud? Check [how to get started](https://github.com/QilinC
 
 You will find the status of our services (APIs, Engines, Websites, etc.) in our [discussions pinned](https://github.com/orgs/QilinCloud/discussions/6#discussion-5853721) and also here: [status.qilin.cloud](https://status.qilin.cloud)
 
+## Roadmap
+
+Our roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. 
+You will find roadmap in our [discussions pinned](https://github.com/orgs/QilinCloud/discussions/137#discussion-5909520) and also here: [roadmap.qilin.cloud](http://roadmap.qilin.cloud)
+
 ## SDKs
 
 We provide you some SDKs for common used languages here: [Show me the SDKs](https://github.com/QilinCloud/QilinCloud/wiki/SDKs)
